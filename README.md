@@ -25,6 +25,8 @@ To run the notebook, please follow these steps:
 * Download and install Google Chrome from [here](https://www.google.com/chrome/).
   
 ### **Install Chromedriver**
+* Make sure that google chrome and the chrome driver have the same version.
+  
 #### For Linux:
 ```
 !wget https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/linux64/chromedriver-linux64.zip	
