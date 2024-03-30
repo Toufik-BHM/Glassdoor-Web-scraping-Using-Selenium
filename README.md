@@ -2,7 +2,7 @@
 
 # Data Jobs in Morocco: Glassdoor Web Scraping Using Selenium
 
-This repository contains a Jupyter Notebook that demonstrates how to scrape data job listings in Morocco from Glassdoor using Selenium. The notebook utilizes Python libraries such as BeautifulSoup, pandas, and Selenium to extract job details and save them into an Excel file.
+This repository contains a Kaggle Notebook that demonstrates how to scrape data job listings in Morocco from Glassdoor using Selenium. The notebook utilizes Python libraries such as BeautifulSoup, pandas, and Selenium to extract job details and save them into an Excel file.
 
 ## Dependencies
 
